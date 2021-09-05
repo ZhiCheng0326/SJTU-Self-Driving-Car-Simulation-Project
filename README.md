@@ -8,5 +8,8 @@ Missions:
 4) Cruising + pedestrian detection
 
 Demo video:
-Mission 3: Car detected red light and stops at 00:39 and 00:50
-https://user-images.githubusercontent.com/32631770/132128288-461d85a2-e46b-4359-a12f-8f05a028d4da.mp4
+Mission 3: Car detected red light and stops at 00:39 and 00:50  
+
+https://user-images.githubusercontent.com/32631770/132128337-9d80f236-6b5e-4c6e-a6a7-2428e6f48097.mp4
+
+
